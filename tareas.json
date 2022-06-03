@@ -1,0 +1,27 @@
+[
+   {
+      "titulo": "Repasar js",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Armar aplicacion de tareas",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": " break ",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "calculadora",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Curso de programacion de Formar",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "tp integrador",
+      "estado": "pendiente"
+   }
+
+]
